@@ -1,13 +1,17 @@
-# Olá sou Reinaldo Leal! 🚀🌟
+# Olá sou Reinaldo Leal! 🚀🌟 <a href="https://www.linkedin.com/in/reinaldo-leal-20bb8a29" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ## Bem vindos ao meu perfil do GitHub <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>💻📚
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/reinaldo-leal-20bb8a29)  
+<div>
+<a href="https://github.com/Rey-Leal">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rey-Leal&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rey-Leal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Resumo
 Profissional com mais de uma década de experiência na área de desenvolvimento, combinada a oito anos de liderança em equipes multifuncionais de suporte, atuando com desenvolvimento, conversão, implantação, sustentação, treinamento e suporte a sistemas de Gestão Pública.
 
 ## Competências
-- **Desenvolvimento:** <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20" height="20"/>
+### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20" height="20"/> **Desenvolvimento:**
   - ASP.NET Core
   - C#
   - Entity Framework
@@ -21,7 +25,7 @@ Profissional com mais de uma década de experiência na área de desenvolvimento
   - Materialize
   - APIs
 
-- **Banco de Dados:** <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/>         
+### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> **Banco de Dados:**
   - SQL
   - SQL Server
   - Access
@@ -29,17 +33,18 @@ Profissional com mais de uma década de experiência na área de desenvolvimento
   - MySQL
   - PostgreSQL
 
-- **Infraestrutura:** <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20" height="20"/>
+### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20" height="20"/> **Infraestrutura:**
   - Azure
   - Team Foundation Server
   - Docker
   - Docker Compose
 
-- **Relatórios:** <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg" width="20" height="20"/>
+### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg" width="20" height="20"/> **Relatórios:**
   - Crystal Reports
 
-- **Metodologias:** <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="20" height="20"/>
+### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="20" height="20"/> **Metodologias:**
   - Scrum
 
-- **Controle de Versão:** <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
+### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> **Controle de Versão:**
   - Git
+  - GitHub
