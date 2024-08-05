@@ -1,16 +1,45 @@
-## Hi there 👋
+# Rey-Leal - Reinaldo Leal de Souza 🚀🌟
+## Olá pessoal bem vindos ao meu perfil do GitHub 📚💻
 
-<!--
-**Rey-Leal/Rey-Leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/reinaldo-leal-20bb8a29)  
 
-Here are some ideas to get you started:
+## Resumo
+Profissional com mais de uma década de experiência na área de desenvolvimento, combinada a oito anos de liderança em equipes multifuncionais de suporte, atuando com desenvolvimento, conversão, implantação, sustentação, treinamento e suporte a sistemas de Gestão Pública.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competências
+- **Desenvolvimento:**
+  - ASP.NET Core
+  - C#
+  - Entity Framework
+  - NHibernate
+  - PHP
+  - Laravel
+  - VB
+  - Java
+  - Javascript
+  - CSS
+  - Materialize
+  - APIs
+
+- **Banco de Dados:**
+  - SQL
+  - SQL Server
+  - Access
+  - Firebird
+  - MySQL
+  - PostgreSQL
+
+- **Infraestrutura:**
+  - Azure
+  - Team Foundation Server
+  - Docker
+  - Docker Compose
+
+- **Relatórios:**
+  - Crystal Reports
+
+- **Metodologias:**
+  - Scrum
+
+- **Controle de Versão:**
+  - Git
