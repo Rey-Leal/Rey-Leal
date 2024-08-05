@@ -1,5 +1,5 @@
-# Rey-Leal - Reinaldo Leal de Souza 🚀🌟
-## Olá pessoal bem vindos ao meu perfil do GitHub 📚💻
+# Olá sou Rey-Leal! 🚀🌟
+## Bem vindos ao meu perfil do GitHub 📚💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/reinaldo-leal-20bb8a29)  
 
