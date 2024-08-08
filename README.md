@@ -1,4 +1,4 @@
-# Olá sou Reinaldo Leal! 🚀🌟 <a href="https://www.linkedin.com/in/reinaldo-leal-20bb8a29" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+# Olá sou Reinaldo Leal! 🚀🌟 <a href="https://www.linkedin.com/in/reinaldo-leal-20bb8a29" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ## Bem vindos ao meu perfil do GitHub <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>💻📚
 
 <div>
