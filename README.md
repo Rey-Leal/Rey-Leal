@@ -7,7 +7,7 @@
 </div>
 
 ## Resumo
-Profissional com mais de uma década de experiência na área de desenvolvimento, combinada a oito anos de liderança em equipes multifuncionais de suporte, atuando com desenvolvimento, conversão, implantação, sustentação, treinamento e suporte a sistemas de Gestão Pública.
+Analista de Sistemas com ampla experiência na área de Tecnologia da Informação, atuando desde o desenvolvimento à conversão, implantação, sustentação e liderança de equipes multifuncionais de suporte a Sistemas de Gestão. Entusiasta do uso de Metodologias Ágeis para gestão e planejamento dos projetos.
 
 ## Competências
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20" height="20"/> **Desenvolvimento:**
@@ -27,7 +27,7 @@ Profissional com mais de uma década de experiência na área de desenvolvimento
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> **Banco de Dados:**
   - SQL
   - SQL Server
-  - Access
+  - MongoDB  
   - Firebird
   - MySQL
   - PostgreSQL
@@ -35,8 +35,7 @@ Profissional com mais de uma década de experiência na área de desenvolvimento
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20" height="20"/> **Infraestrutura:**
   - Azure
   - Team Foundation Server
-  - Docker
-  - Docker Compose
+  - Docker  
 
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg" width="20" height="20"/> **Relatórios:**
   - Crystal Reports
