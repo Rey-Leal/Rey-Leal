@@ -15,6 +15,7 @@ Analista de Sistemas com ampla experiência na área de Tecnologia da Informaç�
   - C#
   - Entity Framework
   - NHibernate
+  - xUnit
   - PHP
   - Laravel
   - VB
@@ -42,6 +43,7 @@ Analista de Sistemas com ampla experiência na área de Tecnologia da Informaç�
 
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="20" height="20"/> **Metodologias:**
   - Scrum
+  - TDD
 
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> **Controle de Versão:**
   - Git
