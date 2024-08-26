@@ -11,18 +11,15 @@ Analista de Sistemas com ampla experiência na área de Tecnologia da Informaç�
 
 ## Competências
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20" height="20"/> **Desenvolvimento:**
-  - ASP.NET Core
+  - .NET Core
   - C#
   - Entity Framework
   - NHibernate
   - xUnit
   - PHP
   - Laravel
-  - VB
-  - Java
-  - Javascript
-  - CSS
-  - Materialize
+  - VB  
+  - Javascript  
   - APIs
 
 ### <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20"/> **Banco de Dados:**
